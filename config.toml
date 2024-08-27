@@ -1,4 +1,4 @@
-baseURL = "//tabletop.dreamwalker.games/"
+baseURL = "https://dreamwalker.games/"
 languageCode = "en-us"
 title = "Tabletop Treasures"
 theme = "book"
