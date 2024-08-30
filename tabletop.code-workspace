@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../shaunagordon.github.com"
 		}
 	],
 	"settings": {}
